@@ -76,6 +76,13 @@ Software will send instructions (through USB), such as
 - Overcurrent protection (fuses or PTCs)
 - Overtemperature protection (thermal shutdown)
 - Flyback diodes across motor terminals
+###### Servo Details
+- Servo Motor for axis 1 is 1kW
+- Servo Motor for axis 2 is 1kW
+- Servo Motor for axis 3 is 1kwW
+- Servo Motor for axis 4 is 750W
+- Servo Motor for axis 5 is 750W
+- Servo Motor for axis 6 is 750W
 
 #### ESP32:
 - Decoupling Capacitors: 0.1uF ceramic across power pins

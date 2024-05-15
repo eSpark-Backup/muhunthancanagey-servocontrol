@@ -19,6 +19,17 @@ Software will send instructions (through USB), such as
 3. gripper lock/release
 4. rotate gripper (6th axis)
 
+The board will be divided into 3 PCBs each having appropriate and properly rated interconnects to facilitate connections:
+#### Power PCB
+This PCB should only contain the power circuit
+
+#### Logic PCB
+This PCB should only contain ESP32 and all logical circuitry (motor drivers etc)
+
+#### Control PCB
+This PCB should only contain control components (relays high power FETs etc)
+
+###### Note: Logic and Control PCB can be same if not feasible to separate them. Discussion needed first!
 
 ### Key Requirements:
 #### Power Supply:

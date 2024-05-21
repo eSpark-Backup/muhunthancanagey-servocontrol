@@ -49,6 +49,10 @@ This PCB should only contain control components (relays high power FETs etc)
 - Serial communication (UART or SPI) for external interfaces
 - Stable 5V / 3V3 power supply
 
+##### Interaction Interface:
+- Ethernet over RJ45
+- USB Type C
+ 
 ##### PCB Layout:
 - Separate power planes for high and low currents
 - Short PWM signal traces

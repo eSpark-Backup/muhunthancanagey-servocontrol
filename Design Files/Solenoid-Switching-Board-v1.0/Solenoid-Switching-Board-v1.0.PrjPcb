@@ -168,23 +168,6 @@ GenerateClassCluster=0
 DocumentUniqueId=BVSURBIN
 
 [Document8]
-DocumentPath=Connector_Sheet.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DCEOSNOL
-
-[Document9]
 DocumentPath=MOSFET_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -200,6 +183,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DWXPITVW
+
+[Document9]
+DocumentPath=Connector_Sheet.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DCEOSNOL
 
 [Document10]
 DocumentPath=Controller_Sheet.Harness

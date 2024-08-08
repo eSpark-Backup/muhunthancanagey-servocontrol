@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AQNIEUTB
 
 [Document3]
-DocumentPath=PZ254-2-09-W-8.5.SchLib
+DocumentPath=SchLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -100,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AESNWEYP
 
 [Document4]
-DocumentPath=PZ254-2-09-W-8.5.PcbLib
+DocumentPath=PCBLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

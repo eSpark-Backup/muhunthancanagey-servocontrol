@@ -335,27 +335,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VHFYSWWB
 
-[Document18]
-DocumentPath=Solenoid-Switching-Board-v1.0.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Solenoid-Switching-Board-v1.0\Design Rule Check - PCB_Solenoid_Board-v1.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0

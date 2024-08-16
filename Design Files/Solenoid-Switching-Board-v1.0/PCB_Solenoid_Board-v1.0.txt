@@ -1,30 +1,30 @@
 Board Information Report
 Filename     : C:\Users\LiberDB\Documents\GitHub\muhunthancanagey-servocontrol\Design Files\Solenoid-Switching-Board-v1.0\PCB_Solenoid_Board-v1.0.PcbDoc
-Date         : 8/15/2024
-Time         : 10:44:44 PM
+Date         : 8/16/2024
+Time         : 10:00:15 PM
 Time Elapsed : 00:00:01
 
 General
     Board Size, 6602.002milsx5836mils
-    Components on board, 288
+    Components on board, 286
 count : 2
 
 Routing Information
-    Routing completion, 42.64%
-    Connections, 645
-    Connections routed, 275
-    Connections remaining, 370
+    Routing completion, 85.38%
+    Connections, 643
+    Connections routed, 549
+    Connections remaining, 94
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 33, 753, 0, 487, 0, 197, 2, 0
-    Bottom Layer, 0, 0, 0, 151, 0, 0, 1, 0
-    Dimensions, 0, 0, 0, 24, 3, 0, 0, 275
+    Top Layer, 29, 751, 0, 783, 0, 200, 10, 0
+    Bottom Layer, 0, 0, 0, 194, 0, 0, 2, 0
+    Dimensions, 0, 0, 0, 16, 2, 0, 0, 273
     Board Outline, 3, 0, 0, 4, 0, 0, 0, 0
     Mechanical 13, 0, 0, 0, 0, 0, 0, 0, 0
-    Multi-Layer, 0, 127, 324, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 127, 353, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 6, 0, 0, 2376, 610, 90, 17, 0
+    Top Overlay, 6, 0, 0, 2340, 606, 90, 17, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
@@ -38,8 +38,8 @@ Drill Pairs, Vias
 count : 0
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 8.256, 5326.498, 21%
-    Bottom Layer, 5.438, 3508.151, 14%
+    Top Layer, 35.792, 23091.876, 93%
+    Bottom Layer, 7.379, 4760.952, 19%
 count : 2
 
 Non-Plated Hole Size, Pads, Vias

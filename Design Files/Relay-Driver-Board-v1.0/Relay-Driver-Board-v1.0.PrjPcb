@@ -386,10 +386,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MSPSQSWU
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Relay-Driver-Board-v1.0\Design Rule Check - Relay-Driver-Board-v1.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0

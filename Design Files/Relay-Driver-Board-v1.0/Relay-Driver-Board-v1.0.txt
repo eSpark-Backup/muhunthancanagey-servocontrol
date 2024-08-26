@@ -1,7 +1,7 @@
 Board Information Report
 Filename     : C:\Users\MarsVirgo\Documents\GitHub\muhunthancanagey-servocontrol\Design Files\Relay-Driver-Board-v1.0\Relay-Driver-Board-v1.0.PcbDoc
 Date         : 8/26/2024
-Time         : 6:24:00 PM
+Time         : 9:10:58 PM
 Time Elapsed : 00:00:00
 
 General
@@ -10,20 +10,20 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 40.45%
+    Routing completion, 49.00%
     Connections, 749
-    Connections routed, 303
-    Connections remaining, 446
+    Connections routed, 367
+    Connections remaining, 382
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 2, 763, 0, 608, 0, 127, 1, 0
-    Bottom Layer, 0, 0, 0, 192, 0, 11, 2, 0
+    Top Layer, 2, 763, 0, 868, 0, 140, 1, 0
+    Bottom Layer, 0, 0, 0, 270, 0, 11, 2, 0
     Dimensions, 0, 0, 0, 16, 2, 0, 0, 278
     Board Outline, 0, 0, 0, 4, 0, 0, 0, 0
-    Multi-Layer, 0, 288, 159, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 288, 208, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 9, 0
-    Top Overlay, 10, 0, 0, 2160, 641, 48, 33, 0
+    Top Overlay, 10, 0, 0, 2160, 643, 48, 33, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Overlay, 0, 0, 0, 0, 2, 0, 0, 0
@@ -37,8 +37,8 @@ Drill Pairs, Vias
 count : 0
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 9.454, 6099.581, 21%
-    Bottom Layer, 7.693, 4963.103, 17%
+    Top Layer, 10.399, 6709.179, 23%
+    Bottom Layer, 7.91, 5103.277, 17%
 count : 2
 
 Non-Plated Hole Size, Pads, Vias

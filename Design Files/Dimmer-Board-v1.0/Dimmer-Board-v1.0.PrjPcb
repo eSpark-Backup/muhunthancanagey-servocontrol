@@ -117,23 +117,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WQMSKOTM
 
 [Document5]
-DocumentPath=Top_Sheet.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TFXKQKXZ
-
-[Document6]
 DocumentPath=Dimmer_Board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHALUNFX
 
-[Document7]
+[Document6]
 DocumentPath=Dimmer_Board.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -166,6 +149,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document7]
+DocumentPath=Dimmer-Sheet.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GYBFSAIJ
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Dimmer_Board\Design Rule Check - Dimmer_Board.html

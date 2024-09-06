@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Relay-Driver-Board-v1.0.PcbDoc   9/6/2024  9:51:06 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Relay-Driver-Board-v1.0.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             277       PTH        26.98inch (685.41mm)
+T2      12mil (0.305mm)                                           Round             4         PTH        0.13inch (3.30mm)
+T3      39mil (1mm)                                               Round             5         PTH        0.39inch (10.00mm)
+T4      40mil (1.02mm)                                            Round             24        PTH        4.80inch (122.05mm)
+T5      47mil (1.2mm)                                             Round             24        PTH        7.36inch (186.92mm)
+T6      55mil (1.4mm)                                             Round             2         PTH        0.20inch (5.08mm)
+T7      59mil (1.5mm)                                             Round             8         PTH        0.90inch (22.80mm)
+T8      63mil (1.6mm)                                             Round             12        PTH        2.64inch (66.95mm)
+T9      98mil (2.5mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+T10     138mil (3.5mm)                                            Round             4         NPTH       9.83inch (249.67mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              361
+
+Total Processing Time (hh:mm:ss) : 00:00:00

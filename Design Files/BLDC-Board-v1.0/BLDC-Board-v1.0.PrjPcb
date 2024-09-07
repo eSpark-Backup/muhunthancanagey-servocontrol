@@ -359,6 +359,10 @@ DocumentUniqueId=OWIUSEWM
 DocumentPath=Project Outputs for BLDC-Board-v1.0\Design Rule Check - BLDC-Board-v1.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for BLDC-Board-v1.0\Design Rule Check - BLDC-Board.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

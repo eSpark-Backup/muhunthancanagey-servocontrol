@@ -5,8 +5,8 @@ C:\Users\LiberDB\Documents\GitHub\muhunthancanagey-servocontrol\Design Files\Sol
 File Design Information:
 
 Date:       10/09/24
-Time:       19:59
-Revision:   ebc613316fab77093a2955c9b8073a2abbbf1ff7
+Time:       21:20
+Revision:   8156131578d0db91709952e6abf0451d692a90c9
 Variant:    No variations
 Units used: mm
 
@@ -30,7 +30,7 @@ D2         TopLayer 50,8931mm    14,7320mm    0        50,8931mm 14,7320mm 46,94
 D3         TopLayer 49,8836mm    43,0784mm    180      49,8836mm 43,0784mm 53,8336mm 43,0784mm 
 D4         TopLayer 30,1185mm    14,7320mm    0        30,1185mm 14,7320mm 26,1685mm 14,7320mm 
 D5         TopLayer 15,4521mm    14,2494mm    180      15,4521mm 14,2494mm 17,7521mm 14,2494mm 
-D6         TopLayer 10,2616mm    23,6154mm    90       10,2616mm 23,6154mm 10,2616mm 21,6154mm 
+D6         TopLayer 10,0838mm    23,6154mm    90       10,0838mm 23,6154mm 10,0838mm 21,6154mm 
 J1         TopLayer 29,6926mm    52,3748mm    180      29,6926mm 52,3748mm 31,5976mm 52,3748mm 
 J2         TopLayer 50,3428mm    5,4356mm     0        50,3428mm 5,4356mm  48,4378mm 5,4356mm  
 J3         TopLayer 50,3428mm    52,3748mm    180      50,3428mm 52,3748mm 52,2478mm 52,3748mm 

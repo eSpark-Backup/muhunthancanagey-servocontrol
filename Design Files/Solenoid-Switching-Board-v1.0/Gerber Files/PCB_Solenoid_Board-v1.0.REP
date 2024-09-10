@@ -2,81 +2,8 @@
 FileName = PCB_Solenoid_Board-v1.0.GBR
 AutoAperture = True
 *************************************************************
-Generating : Board Outline
-      File : PCB_Solenoid_Board-v1.0.GM2
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D51
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : PCB_Solenoid_Board-v1.0.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PCB_Solenoid_Board-v1.0.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : PCB_Solenoid_Board-v1.0.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : PCB_Solenoid_Board-v1.0.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : PCB_Solenoid_Board-v1.0.GTS
-
-    Adding Layer      : Top Solder
+Generating : Top Pad Master
+      File : PCB_Solenoid_Board-v1.0.GPT
 
     Adding Layer      : Top Layer
 
@@ -84,43 +11,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : PCB_Solenoid_Board-v1.0.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-    D21
     D22
     D23
     D24
@@ -129,6 +19,39 @@ Used DCodes :
     D27
     D28
     D29
+    D30
+    D31
+    D32
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PCB_Solenoid_Board-v1.0.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
 *************************************************************
 
 *************************************************************
@@ -149,11 +72,15 @@ Used DCodes :
     D17
     D18
     D19
+    D20
+    D21
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : PCB_Solenoid_Board-v1.0.GPT
+Generating : Top Paste
+      File : PCB_Solenoid_Board-v1.0.GTP
+
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
@@ -161,8 +88,6 @@ Generating : Top Pad Master
 
 
 Used DCodes :
-    D20
-    D21
     D22
     D23
     D24
@@ -171,36 +96,77 @@ Used DCodes :
     D27
     D28
     D29
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
+    D30
+    D31
+    D32
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : PCB_Solenoid_Board-v1.0.GPB
+Generating : Top Solder
+      File : PCB_Solenoid_Board-v1.0.GTS
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB_Solenoid_Board-v1.0.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PCB_Solenoid_Board-v1.0.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : PCB_Solenoid_Board-v1.0.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D55
 *************************************************************
 
 *************************************************************
@@ -213,22 +179,22 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D52
-    D53
-    D54
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
+    D56
+    D57
+    D58
     D78
     D79
     D80
     D81
     D82
     D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
 *************************************************************
 
 *************************************************************
@@ -242,8 +208,6 @@ Generating : Top Layer
 
 Used DCodes :
     D11
-    D20
-    D21
     D22
     D23
     D24
@@ -252,10 +216,9 @@ Used DCodes :
     D27
     D28
     D29
-    D51
-    D52
-    D53
-    D54
+    D30
+    D31
+    D32
     D55
     D56
     D57
@@ -282,6 +245,52 @@ Used DCodes :
     D78
     D79
     D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB_Solenoid_Board-v1.0.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB_Solenoid_Board-v1.0.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -295,9 +304,9 @@ Generating : Drill Drawing
 
 Used DCodes :
     D11
-    D51
-    D84
-    D85
+    D55
+    D91
+    D92
 *************************************************************
 
 *************************************************************
@@ -310,6 +319,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D84
+    D91
 *************************************************************
 

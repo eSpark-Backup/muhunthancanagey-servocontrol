@@ -114,6 +114,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RDJHBIND
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Relay Driver-10A-v1.0\Design Rule Check - Relay-Driver10A.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

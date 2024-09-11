@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\LiberDB\Documents\GitHub\muhunthancanagey-servocontrol\Design Files\Relay Driver-10A-v1.0\Relay-Driver10A.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=relay-driver10a-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=relay-driver10a-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl

@@ -508,23 +508,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document28]
-DocumentPath=Motor_Driver_Sheet1.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document29]
 DocumentPath=Motor_Driver_Sheet2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -541,7 +524,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document29]
 DocumentPath=Servo1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -558,7 +541,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DIHIBVAJ
 
-[Document31]
+[Document30]
 DocumentPath=Servo2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -575,7 +558,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NPOENFIR
 
-[Document32]
+[Document31]
 DocumentPath=Servo3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -592,7 +575,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AEOHIIGY
 
-[Document33]
+[Document32]
 DocumentPath=Servo4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -609,7 +592,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HLYUGLBG
 
-[Document34]
+[Document33]
 DocumentPath=Encoder_Sheet2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -626,7 +609,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZFGGVFPI
 
-[Document35]
+[Document34]
 DocumentPath=Encoder_Sheet3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -643,7 +626,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ELPJTATL
 
-[Document36]
+[Document35]
 DocumentPath=Encoder_Sheet4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -660,7 +643,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YWGXFOSQ
 
-[Document37]
+[Document36]
 DocumentPath=DIO_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -677,7 +660,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CAUJPNPI
 
-[Document38]
+[Document37]
 DocumentPath=DIO_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -694,7 +677,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QOBIHWFT
 
-[Document39]
+[Document38]
 DocumentPath=DIO_3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -711,7 +694,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LUBYQHLK
 
-[Document40]
+[Document39]
 DocumentPath=DIO_4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -728,7 +711,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EQKAEFUL
 
-[Document41]
+[Document40]
 DocumentPath=Sec_Controller_Sheet1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -745,7 +728,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document41]
 DocumentPath=DIO_1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -762,7 +745,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document42]
 DocumentPath=DIO_3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -779,7 +762,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document43]
 DocumentPath=DIO_4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -796,7 +779,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document44]
 DocumentPath=Sec_Controller_Sheet2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -813,7 +796,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document45]
 DocumentPath=DIO_2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -830,7 +813,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document46]
 DocumentPath=Sec_Controller_Sheet3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -847,7 +830,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document47]
 DocumentPath=Sec_Controller_Sheet4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -864,7 +847,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document48]
 DocumentPath=PCB-Servo-Board-v1.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -881,7 +864,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MSPSQSWU
 
-[Document50]
+[Document49]
 DocumentPath=CAN_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -898,7 +881,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document50]
 DocumentPath=RS485_RS232_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -915,7 +898,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document51]
 DocumentPath=EtherCAT_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1

@@ -1,8 +1,8 @@
 Board Information Report
 Filename     : C:\Users\LiberDB\Documents\GitHub\muhunthancanagey-servocontrol\Design Files\STEPPER-Board-v1.0\Stepper Board-v1.0.PcbDoc
-Date         : 9/24/2024
-Time         : 10:12:56 PM
-Time Elapsed : 00:00:00
+Date         : 9/25/2024
+Time         : 10:43:06 PM
+Time Elapsed : 00:00:01
 
 General
     Board Size, 6298.001milsx6686mils
@@ -10,23 +10,23 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 21.47%
+    Routing completion, 46.81%
     Connections, 1034
-    Connections routed, 222
-    Connections remaining, 812
+    Connections routed, 484
+    Connections remaining, 550
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 34, 1301, 0, 724, 0, 44, 14, 0
-    Signal-1, 0, 0, 0, 13, 0, 0, 0, 0
-    Signal-2, 0, 0, 0, 0, 0, 0, 0, 0
-    Bottom Layer, 0, 0, 0, 88, 0, 3, 7, 0
+    Top Layer, 38, 1301, 0, 1097, 0, 52, 16, 0
+    Signal-1, 0, 0, 0, 33, 0, 0, 3, 0
+    Signal-2, 0, 0, 0, 27, 0, 0, 1, 0
+    Bottom Layer, 0, 0, 0, 123, 0, 6, 8, 0
     Dimension, 0, 0, 0, 16, 2, 0, 0, 377
     Board Outline, 0, 0, 0, 4, 0, 0, 0, 0
     Fabrication, 0, 0, 0, 0, 0, 0, 0, 0
-    Multi-Layer, 0, 163, 329, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 163, 473, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 7, 0, 0, 2550, 875, 73, 113, 0
+    Top Overlay, 7, 0, 0, 2550, 876, 73, 113, 0
     Top Solder, 0, 0, 0, 0, 0, 5, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 5, 0, 0
     Bottom Overlay, 0, 0, 0, 0, 10, 0, 0, 0
@@ -40,10 +40,10 @@ Drill Pairs, Vias
 count : 0
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 7.779, 5018.574, 18%
-    Signal-1, 0.807, 520.92, 2%
-    Signal-2, 0.793, 511.601, 2%
-    Bottom Layer, 2.815, 1815.976, 7%
+    Top Layer, 8.21, 5296.989, 19%
+    Signal-1, 39.893, 25737.143, 95%
+    Signal-2, 0.956, 616.579, 2%
+    Bottom Layer, 39.509, 25489.348, 94%
 count : 4
 
 Non-Plated Hole Size, Pads, Vias

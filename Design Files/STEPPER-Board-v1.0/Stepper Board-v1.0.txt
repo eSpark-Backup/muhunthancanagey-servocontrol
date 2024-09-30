@@ -1,30 +1,30 @@
 Board Information Report
-Filename     : C:\Users\MarsVirgo\Documents\GitHub\muhunthancanagey-servocontrol\Design Files\STEPPER-Board-v1.0\Stepper Board-v1.0.PcbDoc
-Date         : 9/29/2024
-Time         : 1:05:23 PM
+Filename     : C:\Users\LiberDB\Documents\GitHub\muhunthancanagey-servocontrol\Design Files\STEPPER-Board-v1.0\Stepper Board-v1.0.PcbDoc
+Date         : 9/30/2024
+Time         : 9:32:42 PM
 Time Elapsed : 00:00:01
 
 General
-    Board Size, 159.9692mmx169.8244mm
+    Board Size, 6298.001milsx6686mils
     Components on board, 410
 count : 2
 
 Routing Information
-    Routing completion, 71.57%
+    Routing completion, 78.92%
     Connections, 1034
-    Connections routed, 740
-    Connections remaining, 294
+    Connections routed, 816
+    Connections remaining, 218
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 113, 1301, 0, 1737, 0, 149, 18, 0
-    Signal-1, 0, 0, 0, 113, 0, 0, 1, 0
-    Signal-2, 0, 0, 0, 29, 0, 0, 2, 0
-    Bottom Layer, 0, 0, 0, 229, 0, 6, 7, 0
+    Top Layer, 138, 1301, 0, 1839, 0, 137, 22, 0
+    Signal-1, 2, 0, 0, 190, 0, 0, 2, 0
+    Signal-2, 1, 0, 0, 90, 0, 0, 2, 0
+    Bottom Layer, 0, 0, 0, 327, 0, 6, 7, 0
     Dimension, 0, 0, 0, 16, 2, 0, 0, 377
     Board Outline, 0, 0, 0, 4, 0, 0, 0, 0
     Fabrication, 0, 0, 0, 0, 0, 0, 0, 0
-    Multi-Layer, 0, 163, 707, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 163, 769, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Top Overlay, 7, 0, 0, 2599, 875, 73, 113, 0
     Top Solder, 0, 0, 0, 0, 0, 5, 0, 0
@@ -40,39 +40,16 @@ Drill Pairs, Vias
 count : 0
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 10.004, 6454.022, 24%
-    Signal-1, 1.729, 1115.713, 4%
-    Signal-2, 5.998, 3869.808, 14%
-    Bottom Layer, 3.593, 2317.742, 9%
+    Top Layer, 13.291, 8574.789, 32%
+    Signal-1, 8.605, 5551.313, 20%
+    Signal-2, 6.677, 4307.458, 16%
+    Bottom Layer, 4.27, 2754.947, 10%
 count : 4
 
 Non-Plated Hole Size, Pads, Vias
-    0mm, 0, 0
-    0.62mm, 0, 0
-    2.5mm, 0, 0
-    3.25mm, 0, 0
-    3.25mm, 0, 0
+    0mils, 0, 0
+    24.409mils, 0, 0
+    98.426mils, 0, 0
+    127.952mils, 0, 0
+    127.953mils, 0, 0
 count : 5
-
-Plated Hole Size, Pads, Vias
-    0mm, 0, 0
-    0.3mm, 0, 0
-    0.89mm, 0, 0
-    0.9mm, 0, 0
-    0.9mm, 0, 0
-    0.95mm, 0, 0
-    1mm, 0, 0
-    1mm, 0, 0
-    1.02mm, 0, 0
-    1.25mm, 0, 0
-    1.3mm, 0, 0
-    1.4mm, 0, 0
-    1.5mm, 0, 0
-    1.6mm, 0, 0
-    1.63mm, 0, 0
-    1.9mm, 0, 0
-    3.1mm, 0, 0
-count : 17
-
-Non-Plated Slot Size / Length, Pads
-count : 0

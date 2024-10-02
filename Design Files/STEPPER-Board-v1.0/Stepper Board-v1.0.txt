@@ -1,8 +1,8 @@
 Board Information Report
-Filename     : C:\Users\MarsVirgo\Documents\GitHub\muhunthancanagey-servocontrol\Design Files\STEPPER-Board-v1.0\Stepper Board-v1.0.PcbDoc
+Filename     : C:\Users\LiberDB\Documents\GitHub\muhunthancanagey-servocontrol\Design Files\STEPPER-Board-v1.0\Stepper Board-v1.0.PcbDoc
 Date         : 10/2/2024
-Time         : 12:48:51 AM
-Time Elapsed : 00:00:01
+Time         : 7:52:15 PM
+Time Elapsed : 00:00:02
 
 General
     Board Size, 6298.001milsx6686mils
@@ -10,23 +10,23 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 95.65%
+    Routing completion, 99.71%
     Connections, 1034
-    Connections routed, 989
-    Connections remaining, 45
+    Connections routed, 1031
+    Connections remaining, 3
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 160, 1301, 0, 2022, 0, 177, 52, 0
-    Signal-1, 1, 0, 0, 220, 0, 0, 6, 0
-    Signal-2, 1, 0, 0, 122, 0, 0, 2, 0
-    Bottom Layer, 0, 0, 0, 330, 0, 6, 10, 0
+    Top Layer, 146, 1301, 0, 1947, 0, 237, 84, 0
+    Signal-1, 32, 0, 0, 226, 0, 0, 5, 0
+    Signal-2, 1, 0, 0, 123, 0, 0, 2, 0
+    Bottom Layer, 3, 0, 0, 332, 0, 6, 10, 0
     Dimension, 0, 0, 0, 16, 2, 0, 0, 377
     Board Outline, 0, 0, 0, 4, 0, 0, 0, 0
     Fabrication, 0, 0, 0, 0, 0, 0, 0, 0
-    Multi-Layer, 0, 163, 993, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 163, 1013, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 7, 0, 0, 2599, 875, 73, 113, 0
+    Top Overlay, 7, 0, 0, 2593, 875, 73, 113, 0
     Top Solder, 0, 0, 0, 0, 0, 5, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 5, 0, 0
     Bottom Overlay, 0, 0, 0, 0, 58, 0, 0, 0
@@ -40,10 +40,10 @@ Drill Pairs, Vias
 count : 0
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 34.126, 22016.726, 81%
-    Signal-1, 37.864, 24428.432, 90%
-    Signal-2, 7.003, 4518.236, 17%
-    Bottom Layer, 36.74, 23703.15, 87%
+    Top Layer, 33.976, 21920.204, 81%
+    Signal-1, 37.473, 24176.211, 89%
+    Signal-2, 7.012, 4523.99, 17%
+    Bottom Layer, 36.732, 23698.04, 87%
 count : 4
 
 Non-Plated Hole Size, Pads, Vias
@@ -53,26 +53,3 @@ Non-Plated Hole Size, Pads, Vias
     127.952mils, 0, 0
     127.953mils, 0, 0
 count : 5
-
-Plated Hole Size, Pads, Vias
-    0mils, 0, 0
-    11.811mils, 0, 0
-    35.039mils, 0, 0
-    35.433mils, 0, 0
-    35.434mils, 0, 0
-    37.402mils, 0, 0
-    39.37mils, 0, 0
-    39.37mils, 0, 0
-    40.158mils, 0, 0
-    49.212mils, 0, 0
-    51.182mils, 0, 0
-    55.118mils, 0, 0
-    59.056mils, 0, 0
-    62.992mils, 0, 0
-    64.173mils, 0, 0
-    74.804mils, 0, 0
-    122.047mils, 0, 0
-count : 17
-
-Non-Plated Slot Size / Length, Pads
-count : 0

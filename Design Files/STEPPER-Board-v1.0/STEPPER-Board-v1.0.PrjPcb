@@ -301,6 +301,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HEYTCHPL
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for STEPPER-Board-v1.0\Design Rule Check - Stepper Board-v1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

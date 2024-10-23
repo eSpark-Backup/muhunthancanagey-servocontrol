@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TZQHWOZA
 
 [Document3]
-DocumentPath=Power_Controller-Sheet.SchDoc
+DocumentPath=Power-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

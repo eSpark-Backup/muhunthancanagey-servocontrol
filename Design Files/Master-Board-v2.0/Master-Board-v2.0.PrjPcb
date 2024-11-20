@@ -219,40 +219,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=Schlib1.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MNKPLDIW
-
-[Document12]
-DocumentPath=PcbLib1.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YQOQIVFI
-
-[Document13]
 DocumentPath=Control-Board-v1.0.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document12]
 DocumentPath=EtherCAT_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document13]
 DocumentPath=CAN_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document14]
 DocumentPath=RS485_RS232_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document15]
 DocumentPath=ESP32_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document16]
 DocumentPath=Top-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -354,8 +320,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YQEVEXCF
 
-[Document19]
-DocumentPath=Control Board-v1.0.PcbDoc
+[Document17]
+DocumentPath=Master-Board-v2.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -371,7 +337,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XRVTLFLO
 
-[Document20]
+[Document18]
 DocumentPath=Ethernet_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -388,7 +354,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document19]
 DocumentPath=Deliverables\Gerber Files\Gerber File.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -405,7 +371,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document20]
 DocumentPath=Deliverables\Gerber Files\NC Drill File.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1

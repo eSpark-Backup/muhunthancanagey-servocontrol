@@ -202,6 +202,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDQKYAEO
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BLDC-Driver-v2.0\Design Rule Check - BLDC-Driver-v2.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

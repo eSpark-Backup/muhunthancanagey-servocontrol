@@ -490,10 +490,14 @@ DocumentPath=Project Outputs for Control-Board-v1.0\Design Rule Check - Control 
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Control-Board-v1.0\Pick Place for Control Board-v1.0.csv
+DocumentPath=Project Outputs for Master-Board-v2.0\Design Rule Check - Master-Board-v2.html
 DItemRevisionGUID=
 
 [GeneratedDocument27]
+DocumentPath=Project Outputs for Control-Board-v1.0\Pick Place for Control Board-v1.0.csv
+DItemRevisionGUID=
+
+[GeneratedDocument28]
 DocumentPath=Project Outputs for Control-Board-v1.0\Pick Place for Control Board-v1.0.txt
 DItemRevisionGUID=
 

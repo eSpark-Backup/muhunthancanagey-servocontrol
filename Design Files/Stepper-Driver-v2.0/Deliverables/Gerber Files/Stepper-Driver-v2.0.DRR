@@ -1,0 +1,30 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Stepper-Driver-v2.0.PcbDoc   1/22/2025  8:39:34 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Stepper-Driver-v2.0-RoundHoles.TXT
+ASCII SlotHoles File : Stepper-Driver-v2.0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             24        PTH        1.71inch (43.31mm)
+T2      12mil (0.3mm)                                             Round             943       PTH        96.68inch (2455.74mm)
+T3      24mil (0.6mm)                                             Slot              4         PTH        1.09inch (27.56mm)
+T4      28mil (0.72mm)                                            Round             20        PTH        2.75inch (69.94mm)
+T5      35mil (0.9mm)                                             Round             7         PTH        5.08inch (128.97mm)
+T6      39mil (1mm)                                               Round             8         PTH        0.71inch (18.08mm)
+T7      59mil (1.5mm)                                             Round             8         PTH        0.90inch (22.80mm)
+T8      59mil (1.5mm)                                             Slot              16        PTH        16.71inch (424.47mm)
+T9      63mil (1.6mm)                                             Round             3         PTH        0.40inch (10.16mm)
+T10     122mil (3.1mm)                                            Round             7         PTH        18.34inch (465.94mm)
+T11     20mil (0.52mm)                                            Round             1         NPTH       0.00inch (0.00mm)
+T12     24mil (0.6mm)                                             Slot              1         NPTH       0.00inch (0.12mm)
+T13     39mil (0.991mm)                                           Round             3         NPTH       0.28inch (7.21mm)
+T14     94mil (2.375mm)                                           Round             4         NPTH       0.45inch (11.43mm)
+T15     98mil (2.5mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+T16     126mil (3.2mm)                                            Round             2         NPTH       0.45inch (11.43mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1052
+
+Total Processing Time (hh:mm:ss) : 00:00:00

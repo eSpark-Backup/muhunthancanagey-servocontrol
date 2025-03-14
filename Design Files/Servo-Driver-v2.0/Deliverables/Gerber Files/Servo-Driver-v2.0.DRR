@@ -1,0 +1,33 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Servo-Driver-v2.0.PcbDoc   3/14/2025  4:19:49 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Servo-Driver-v2.0-RoundHoles.TXT
+ASCII SlotHoles File : Servo-Driver-v2.0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             354       PTH        107.02inch (2718.42mm)
+T2      12mil (0.3mm)                                             Round             640       PTH        210.07inch (5335.78mm)
+T3      28mil (0.7mm)                                             Round             671       PTH        132.48inch (3364.92mm)
+T4      28mil (0.72mm)                                            Round             16        PTH        14.27inch (362.36mm)
+T5      35mil (0.9mm)                                             Round             44        PTH        40.49inch (1028.50mm)
+T6      37mil (0.95mm)                                            Round             20        PTH        7.04inch (178.88mm)
+T7      39mil (1mm)                                               Round             44        PTH        44.62inch (1133.43mm)
+T8      55mil (1.4mm)                                             Round             52        PTH        35.40inch (899.18mm)
+T9      59mil (1.5mm)                                             Round             40        PTH        25.84inch (656.43mm)
+T10     63mil (1.6mm)                                             Round             8         PTH        20.41inch (518.53mm)
+T11     87mil (2.2mm)                                             Slot              6         PTH        8.34inch (211.91mm)
+T12     197mil (5mm)                                              Round             8         PTH        48.11inch (1222.01mm)
+T13     39mil (0.991mm)                                           Round             12        NPTH       7.30inch (185.35mm)
+T14     94mil (2.375mm)                                           Round             16        NPTH       7.82inch (198.72mm)
+T15     98mil (2.5mm)                                             Round             5         NPTH       22.23inch (564.53mm)
+T16     125mil (3.18mm)                                           Round             4         NPTH       17.76inch (451.05mm)
+T17     126mil (3.2mm)                                            Round             6         NPTH       24.30inch (617.25mm)
+T18     197mil (5mm)                                              Round             1         NPTH       0.00inch (0.00mm)
+T19     260mil (6.6mm)                                            Round             2         NPTH       2.52inch (64.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1949
+
+Total Processing Time (hh:mm:ss) : 00:00:01

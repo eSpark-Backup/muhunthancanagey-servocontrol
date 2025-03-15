@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Solenoid-Board-v2.0.PcbDoc   1/22/2025  8:56:55 PM
+NCDrill File Report For: Solenoid-Board-v2.0.PcbDoc   3/15/2025  7:52:51 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,18 +7,18 @@ ASCII RoundHoles File : Solenoid-Board-v2.0.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             159       PTH        27.77inch (705.27mm)
-T2      28mil (0.72mm)                                            Round             20        PTH        2.69inch (68.40mm)
-T3      35mil (0.9mm)                                             Round             7         PTH        3.82inch (96.97mm)
-T4      39mil (1mm)                                               Round             8         PTH        0.71inch (18.08mm)
-T5      59mil (1.5mm)                                             Round             8         PTH        0.90inch (22.80mm)
-T6      63mil (1.6mm)                                             Round             10        PTH        7.58inch (192.48mm)
-T7      122mil (3.1mm)                                            Round             4         PTH        10.58inch (268.85mm)
-T8      39mil (0.991mm)                                           Round             3         NPTH       0.28inch (7.21mm)
-T9      94mil (2.375mm)                                           Round             4         NPTH       0.45inch (11.43mm)
-T10     98mil (2.5mm)                                             Round             1         NPTH       0.00inch (0.00mm)
-T11     126mil (3.2mm)                                            Round             2         NPTH       0.45inch (11.43mm)
+T1      0.3mm (12mil)                                             Round             159       PTH        705.27mm (27.77inch)
+T2      0.72mm (28mil)                                            Round             20        PTH        68.40mm (2.69inch)
+T3      0.9mm (35mil)                                             Round             7         PTH        96.97mm (3.82inch)
+T4      1mm (39mil)                                               Round             8         PTH        18.08mm (0.71inch)
+T5      1.5mm (59mil)                                             Round             8         PTH        22.80mm (0.90inch)
+T6      1.6mm (63mil)                                             Round             10        PTH        192.48mm (7.58inch)
+T7      3.1mm (122mil)                                            Round             4         PTH        268.85mm (10.58inch)
+T8      0.991mm (39mil)                                           Round             3         NPTH       7.21mm (0.28inch)
+T9      2.375mm (94mil)                                           Round             4         NPTH       11.43mm (0.45inch)
+T10     2.5mm (98mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+T11     3.2mm (126mil)                                            Round             2         NPTH       11.43mm (0.45inch)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              226
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01

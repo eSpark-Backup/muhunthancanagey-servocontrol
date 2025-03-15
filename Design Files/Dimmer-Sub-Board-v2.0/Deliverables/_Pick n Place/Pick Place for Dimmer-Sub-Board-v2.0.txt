@@ -1,0 +1,25 @@
+Altium Designer Pick and Place Locations
+E:\aSim Data\GitHub\muhunthancanagey-servocontrol\Design Files\Dimmer-Sub-Board-v2.0\Project Outputs for Dimmer-Sub-Board-v2.0\Pick Place for Dimmer-Sub-Board-v2.0.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       15/03/25
+Time:       08:18
+Revision:   6456475d95b0a357adba394a0a5cfd07356f9db6
+Variant:    No variations
+Units used: mm
+
+Designator Layer    Center-X(mm) Center-Y(mm) Rotation Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
+C1         TopLayer 23.4696mm    21.1019mm    180      23.4696mm 21.1019mm 25.9696mm 21.1019mm 
+C2         TopLayer 40.3860mm    29.3370mm    270      40.3860mm 29.3370mm 40.3860mm 34.3370mm 
+D1         TopLayer 25.1363mm    50.9270mm    90       25.1363mm 50.9270mm 25.1363mm 45.4020mm 
+J1         TopLayer 29.8770mm    6.9136mm     0        29.8770mm 6.9136mm  26.0670mm 6.9136mm  
+J2         TopLayer 20.9784mm    97.4160mm    180      20.9784mm 97.4160mm 19.4485mm 97.5360mm 
+J3         TopLayer 11.8430mm    6.9136mm     0        11.8430mm 6.9136mm  8.0330mm  6.9136mm  
+J4         TopLayer 20.8280mm    50.9270mm    270      20.8280mm 50.9270mm 20.8280mm 63.6770mm 
+R1         TopLayer 1.5240mm     54.1950mm    270      1.5240mm  54.1950mm 1.5240mm  68.6951mm 
+R2         TopLayer 26.4160mm    86.4220mm    270      26.4160mm 86.4220mm 26.4160mm 87.1840mm 
+R3         TopLayer 40.3860mm    54.1950mm    270      40.3860mm 54.1950mm 40.3860mm 68.6951mm 
+R4         TopLayer 10.4394mm    21.1019mm    180      10.4394mm 21.1019mm 18.1893mm 21.1019mm 
+U1         TopLayer 21.0058mm    81.9150mm    270      21.0058mm 81.9150mm 23.5458mm 85.7250mm 

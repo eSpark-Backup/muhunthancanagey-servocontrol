@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Relay-Switching-Board-v2.0.PcbDoc   22/01/2025  8:38:26 pm
+NCDrill File Report For: Relay-Switching-Board-v2.0.PcbDoc   3/15/2025  7:57:56 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,19 +7,19 @@ ASCII RoundHoles File : Relay-Switching-Board-v2.0.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             335       PTH        44.82inch (1138.43mm)
-T2      28mil (0.72mm)                                            Round             20        PTH        3.39inch (86.09mm)
-T3      35mil (0.9mm)                                             Round             7         PTH        6.47inch (164.43mm)
-T4      39mil (1mm)                                               Round             8         PTH        0.71inch (18.08mm)
-T5      41mil (1.05mm)                                            Round             24        PTH        7.26inch (184.53mm)
-T6      47mil (1.2mm)                                             Round             20        PTH        12.19inch (309.73mm)
-T7      59mil (1.5mm)                                             Round             8         PTH        0.90inch (22.80mm)
-T8      63mil (1.6mm)                                             Round             14        PTH        8.41inch (213.64mm)
-T9      122mil (3.1mm)                                            Round             4         PTH        18.06inch (458.83mm)
-T10     39mil (0.991mm)                                           Round             3         NPTH       0.28inch (7.21mm)
-T11     94mil (2.375mm)                                           Round             4         NPTH       0.45inch (11.43mm)
-T12     98mil (2.5mm)                                             Round             1         NPTH       0.00inch (0.00mm)
-T13     126mil (3.2mm)                                            Round             2         NPTH       0.45inch (11.43mm)
+T1      0.3mm (12mil)                                             Round             335       PTH        1138.43mm (44.82inch)
+T2      0.72mm (28mil)                                            Round             20        PTH        86.09mm (3.39inch)
+T3      0.9mm (35mil)                                             Round             7         PTH        164.43mm (6.47inch)
+T4      1mm (39mil)                                               Round             8         PTH        18.08mm (0.71inch)
+T5      1.05mm (41mil)                                            Round             24        PTH        184.53mm (7.26inch)
+T6      1.2mm (47mil)                                             Round             20        PTH        309.73mm (12.19inch)
+T7      1.5mm (59mil)                                             Round             8         PTH        22.80mm (0.90inch)
+T8      1.6mm (63mil)                                             Round             14        PTH        213.64mm (8.41inch)
+T9      3.1mm (122mil)                                            Round             4         PTH        458.83mm (18.06inch)
+T10     0.991mm (39mil)                                           Round             3         NPTH       7.21mm (0.28inch)
+T11     2.375mm (94mil)                                           Round             4         NPTH       11.43mm (0.45inch)
+T12     2.5mm (98mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+T13     3.2mm (126mil)                                            Round             2         NPTH       11.43mm (0.45inch)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              450
 

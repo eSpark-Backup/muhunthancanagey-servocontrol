@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Dimmer-Sub-Board-v2.0.PcbDoc   3/15/2025  8:21:36 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Dimmer-Sub-Board-v2.0.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.9mm (35mil)                                             Round             10        PTH        34.08mm (1.34inch)
+T2      1mm (39mil)                                               Round             10        PTH        160.14mm (6.30inch)
+T3      1.63mm (64mil)                                            Round             3         PTH        11.05mm (0.44inch)
+T4      1.7mm (67mil)                                             Round             4         PTH        25.65mm (1.01inch)
+T5      2.4mm (94mil)                                             Round             2         PTH        25.50mm (1.00inch)
+T6      3.1mm (122mil)                                            Round             4         PTH        194.31mm (7.65inch)
+T7      2.5mm (98mil)                                             Round             2         NPTH       10.00mm (0.39inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              35
+
+Total Processing Time (hh:mm:ss) : 00:00:00

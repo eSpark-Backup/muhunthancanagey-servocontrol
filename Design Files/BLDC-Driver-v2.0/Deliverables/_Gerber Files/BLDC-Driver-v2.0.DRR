@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: BLDC-Driver-v2.0.PcbDoc   22/01/2025  8:59:25 pm
+NCDrill File Report For: BLDC-Driver-v2.0.PcbDoc   3/15/2025  8:13:08 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,22 +8,22 @@ ASCII SlotHoles File : BLDC-Driver-v2.0-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      8mil (0.2mm)                                              Round             24        PTH        1.32inch (33.46mm)
-T2      12mil (0.3mm)                                             Round             495       PTH        70.03inch (1778.84mm)
-T3      24mil (0.6mm)                                             Slot              4         PTH        1.09inch (27.56mm)
-T4      28mil (0.72mm)                                            Round             20        PTH        2.75inch (69.95mm)
-T5      35mil (0.9mm)                                             Round             7         PTH        5.60inch (142.21mm)
-T6      39mil (1mm)                                               Round             8         PTH        0.71inch (18.08mm)
-T7      47mil (1.2mm)                                             Round             16        PTH        6.30inch (160.09mm)
-T8      59mil (1.5mm)                                             Round             28        PTH        11.38inch (289.12mm)
-T9      63mil (1.6mm)                                             Round             3         PTH        0.40inch (10.16mm)
-T10     122mil (3.1mm)                                            Round             7         PTH        18.34inch (465.94mm)
-T11     20mil (0.52mm)                                            Round             1         NPTH       0.00inch (0.00mm)
-T12     24mil (0.6mm)                                             Slot              1         NPTH       0.00inch (0.12mm)
-T13     39mil (0.991mm)                                           Round             3         NPTH       0.28inch (7.21mm)
-T14     94mil (2.375mm)                                           Round             4         NPTH       0.45inch (11.43mm)
-T15     98mil (2.5mm)                                             Round             1         NPTH       0.00inch (0.00mm)
-T16     126mil (3.2mm)                                            Round             2         NPTH       0.45inch (11.43mm)
+T1      0.2mm (8mil)                                              Round             24        PTH        33.46mm (1.32inch)
+T2      0.3mm (12mil)                                             Round             495       PTH        1778.84mm (70.03inch)
+T3      0.6mm (24mil)                                             Slot              4         PTH        27.56mm (1.09inch)
+T4      0.72mm (28mil)                                            Round             20        PTH        69.95mm (2.75inch)
+T5      0.9mm (35mil)                                             Round             7         PTH        142.21mm (5.60inch)
+T6      1mm (39mil)                                               Round             8         PTH        18.08mm (0.71inch)
+T7      1.2mm (47mil)                                             Round             16        PTH        160.09mm (6.30inch)
+T8      1.5mm (59mil)                                             Round             28        PTH        289.12mm (11.38inch)
+T9      1.6mm (63mil)                                             Round             3         PTH        10.16mm (0.40inch)
+T10     3.1mm (122mil)                                            Round             7         PTH        465.94mm (18.34inch)
+T11     0.52mm (20mil)                                            Round             1         NPTH       0.00mm (0.00inch)
+T12     0.6mm (24mil)                                             Slot              1         NPTH       0.12mm (0.00inch)
+T13     0.991mm (39mil)                                           Round             3         NPTH       7.21mm (0.28inch)
+T14     2.375mm (94mil)                                           Round             4         NPTH       11.43mm (0.45inch)
+T15     2.5mm (98mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+T16     3.2mm (126mil)                                            Round             2         NPTH       11.43mm (0.45inch)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              624
 

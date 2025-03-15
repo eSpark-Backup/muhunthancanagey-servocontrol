@@ -1,0 +1,29 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Relay-10A-Switching-Board-v2.0.PcbDoc   3/15/2025  8:08:40 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Relay-10A-Switching-Board-v2.0-RoundHoles.TXT
+ASCII SlotHoles File : Relay-10A-Switching-Board-v2.0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             104       PTH        749.52mm (29.51inch)
+T2      0.72mm (28mil)                                            Round             4         PTH        3.90mm (0.15inch)
+T3      0.9mm (35mil)                                             Round             31        PTH        258.07mm (10.16inch)
+T4      1mm (39mil)                                               Round             8         PTH        18.08mm (0.71inch)
+T5      1.5mm (59mil)                                             Round             8         PTH        22.80mm (0.90inch)
+T6      1.51mm (59mil)                                            Round             8         PTH        157.04mm (6.18inch)
+T7      1.6mm (63mil)                                             Round             2         PTH        5.08mm (0.20inch)
+T8      1.7mm (67mil)                                             Round             8         PTH        123.81mm (4.87inch)
+T9      1.8mm (71mil)                                             Round             16        PTH        225.53mm (8.88inch)
+T10     1.8mm (71mil)                                             Slot              4         PTH        87.96mm (3.46inch)
+T11     3.1mm (122mil)                                            Round             4         PTH        630.61mm (24.83inch)
+T12     0.991mm (39mil)                                           Round             3         NPTH       7.21mm (0.28inch)
+T13     2.375mm (94mil)                                           Round             4         NPTH       11.43mm (0.45inch)
+T14     2.5mm (98mil)                                             Round             9         NPTH       125.89mm (4.96inch)
+T15     3.2mm (126mil)                                            Round             2         NPTH       11.43mm (0.45inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              215
+
+Total Processing Time (hh:mm:ss) : 00:00:00

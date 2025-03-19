@@ -4,9 +4,9 @@ D:\eSpark-Consultants\muhunthancanagey-servocontrol\Design Files\Master-Board-v2
 ========================================================================================================================
 File Design Information:
 
-Date:       22/01/25
-Time:       19:52
-Revision:   6e82358f55ccf5d4f0d26fcb4831285fb37b8126
+Date:       19/03/25
+Time:       12:50
+Revision:   f3e3fb688ff5710486405902c29604f8f8a5c050
 Variant:    No variations
 Units used: mm
 
@@ -662,13 +662,13 @@ R334       TopLayer 119.6904mm   16.6562mm    180      119.6904mm 16.6562mm  120
 R335       TopLayer 18.9976mm    49.3965mm    0        18.9976mm  49.3964mm  18.5277mm  49.3965mm  
 R336       TopLayer 132.2140mm   23.3618mm    0        132.2140mm 23.3618mm  131.7441mm 23.3618mm  
 R337       TopLayer 132.2140mm   22.0918mm    0        132.2140mm 22.0918mm  131.7441mm 22.0918mm  
-R338       TopLayer 137.7866mm   16.6562mm    180      137.7866mm 16.6562mm  138.2565mm 16.6562mm  
+R338       TopLayer 134.7386mm   16.6562mm    180      134.7386mm 16.6562mm  135.2085mm 16.6562mm  
 R339       TopLayer 135.8081mm   24.1238mm    270      135.8082mm 24.1238mm  135.8081mm 24.8858mm  
 R340       TopLayer 122.6890mm   23.8317mm    90       122.6891mm 23.8317mm  122.6890mm 23.3618mm  
 R341       TopLayer 29.9676mm    49.3965mm    0        29.9676mm  49.3964mm  29.4977mm  49.3965mm  
 R342       TopLayer 150.6136mm   23.3533mm    0        150.6136mm 23.3533mm  150.1437mm 23.3533mm  
 R343       TopLayer 150.6136mm   22.0833mm    0        150.6136mm 22.0833mm  150.1437mm 22.0833mm  
-R344       TopLayer 153.0266mm   16.6562mm    180      153.0266mm 16.6562mm  153.4965mm 16.6562mm  
+R344       TopLayer 149.9786mm   16.6562mm    180      149.9786mm 16.6562mm  150.4485mm 16.6562mm  
 R345       TopLayer 154.2077mm   24.1238mm    270      154.2077mm 24.1238mm  154.2077mm 24.8858mm  
 R346       TopLayer 141.0886mm   23.8317mm    90       141.0886mm 23.8317mm  141.0886mm 23.3618mm  
 R347       TopLayer 40.9376mm    49.3965mm    0        40.9376mm  49.3964mm  40.4677mm  49.3965mm  
@@ -751,6 +751,12 @@ R423       TopLayer 192.1514mm   80.1243mm    270      192.1514mm 80.1243mm  192
 R424       TopLayer 203.7457mm   80.7922mm    180      203.7457mm 80.7922mm  204.2156mm 80.7922mm  
 R425       TopLayer 193.1514mm   80.1243mm    270      193.1514mm 80.1243mm  193.1514mm 80.5942mm  
 R426       TopLayer 189.3320mm   89.6874mm    180      189.3320mm 89.6874mm  189.8019mm 89.6874mm  
+R427       TopLayer 136.9060mm   18.4023mm    90       136.9060mm 18.4023mm  136.9060mm 17.9324mm  
+R428       TopLayer 136.9060mm   16.6816mm    270      136.9060mm 16.6816mm  136.9060mm 17.1515mm  
+R429       TopLayer 155.2586mm   18.4023mm    90       155.2586mm 18.4023mm  155.2586mm 17.9324mm  
+R430       TopLayer 155.2586mm   16.6816mm    270      155.2586mm 16.6816mm  155.2586mm 17.1515mm  
+R431       TopLayer 173.5836mm   18.4023mm    90       173.5836mm 18.4023mm  173.5836mm 17.9324mm  
+R432       TopLayer 173.5836mm   16.6816mm    270      173.5836mm 16.6816mm  173.5836mm 17.1515mm  
 SW1        TopLayer 204.0056mm   60.5722mm    0        204.0056mm 60.5722mm  202.3056mm 60.5722mm  
 SW2        TopLayer 204.0056mm   65.4920mm    0        204.0056mm 65.4920mm  202.3056mm 65.4920mm  
 SW3        TopLayer 235.8775mm   83.8178mm    90       235.8775mm 83.8178mm  235.8775mm 82.1178mm  

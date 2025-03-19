@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Master-Board-v2.0.PcbDoc   3/14/2025  3:46:57 PM
+NCDrill File Report For: Master-Board-v2.0.PcbDoc   3/19/2025  12:56:12 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -9,7 +9,7 @@ ASCII SlotHoles File : Master-Board-v2.0-SlotHoles.TXT
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      8mil (0.2mm)                                              Round             8         PTH        10.97inch (278.52mm)
-T2      12mil (0.3mm)                                             Round             866       PTH        185.40inch (4709.15mm)
+T2      12mil (0.3mm)                                             Round             869       PTH        186.11inch (4727.22mm)
 T3      24mil (0.6mm)                                             Slot              9         PTH        23.03inch (585.02mm)
 T4      28mil (0.7mm)                                             Round             2         PTH        0.17inch (4.30mm)
 T5      28mil (0.72mm)                                            Round             40        PTH        5.96inch (151.37mm)
@@ -35,6 +35,6 @@ T24     126mil (3.2mm)                                            Round         
 T25     128mil (3.25mm)                                           Round             8         NPTH       6.07inch (154.21mm)
 T26     197mil (5mm)                                              Round             4         NPTH       12.34inch (313.33mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              1155
+Totals                                                                              1158
 
 Total Processing Time (hh:mm:ss) : 00:00:01

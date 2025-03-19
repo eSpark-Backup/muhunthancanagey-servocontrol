@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\eSpark Cons Group\Documents\GitHub\Melih-SoundSensor\muhunthancanagey-servocontrol\Design Files\BLDC-Driver-v2.0\Project Outputs for BLDC-Driver-v2.0\Pick Place for BLDC-Driver-v2.0.txt
+E:\aSim Data\GitHub\muhunthancanagey-servocontrol\Design Files\BLDC-Driver-v2.0\Project Outputs for BLDC-Driver-v2.0\Pick Place for BLDC-Driver-v2.0.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       22/01/25
-Time:       20:57
-Revision:   fc1491cf12dcfb03e1ffdb9fa224d977da5e76a2
+Date:       20/03/25
+Time:       00:52
+Revision:   18ccee6836c23a87c0115df3af2f02e6545a6fe9
 Variant:    No variations
 Units used: mm
 
@@ -50,7 +50,7 @@ C36        7.6327mm     21.5265mm    TopLayer 270      7.6327mm   21.5265mm  7.6
 C37        122.0257mm   30.2584mm    TopLayer 270      122.0257mm 30.2584mm  122.0257mm 30.7283mm  
 C38        123.3085mm   30.2586mm    TopLayer 270      123.3085mm 30.2586mm  123.3085mm 30.7285mm  
 C39        39.3212mm    73.9143mm    TopLayer 0        39.3212mm  73.9143mm  38.8513mm  73.9143mm  
-C40        132.1552mm   20.3524mm    TopLayer 90       132.1552mm 20.3524mm  132.1552mm 19.8825mm  
+C40        133.4252mm   20.3524mm    TopLayer 90       133.4252mm 20.3524mm  133.4252mm 19.8825mm  
 C41        25.4212mm    73.9283mm    TopLayer 0        25.4213mm  73.9283mm  24.9513mm  73.9283mm  
 C42        11.5243mm    73.9284mm    TopLayer 0        11.5243mm  73.9284mm  11.0544mm  73.9284mm  
 C43        25.4212mm    88.9143mm    TopLayer 0        25.4212mm  88.9143mm  24.9513mm  88.9143mm  
@@ -261,6 +261,8 @@ R123       48.5254mm    69.6592mm    TopLayer 270      48.5254mm  69.6592mm  48.
 R124       65.7039mm    90.8012mm    TopLayer 180      65.7039mm  90.8012mm  66.1738mm  90.8012mm  
 R125       49.7397mm    69.6592mm    TopLayer 90       49.7397mm  69.6592mm  49.7397mm  69.1893mm  
 R126       73.9847mm    79.2268mm    TopLayer 270      73.9847mm  79.2268mm  73.9847mm  79.6967mm  
+R127       128.3452mm   20.3527mm    TopLayer 90       128.3452mm 20.3527mm  128.3452mm 19.8828mm  
+R128       132.1552mm   20.3524mm    TopLayer 90       132.1552mm 20.3524mm  132.1552mm 19.8825mm  
 SW1        0.5768mm     41.9481mm    TopLayer 90       0.5768mm   41.9481mm  0.5768mm   40.2481mm  
 SW2        39.9073mm    41.4765mm    TopLayer 270      39.9073mm  41.4765mm  42.4473mm  45.9765mm  
 SW3        0.5768mm     52.0700mm    TopLayer 270      0.5768mm   52.0700mm  0.5768mm   53.7700mm  

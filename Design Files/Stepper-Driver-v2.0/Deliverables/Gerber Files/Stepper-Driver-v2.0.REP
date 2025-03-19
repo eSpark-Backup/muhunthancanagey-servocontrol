@@ -26,122 +26,13 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : Stepper-Driver-v2.0.GBL
+Generating : Keep-Out Layer
+      File : Stepper-Driver-v2.0.GKO
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D11
-    D157
-    D160
-    D278
-    D279
-    D280
-    D281
-    D282
-    D283
-    D284
-    D285
-    D286
-    D287
-    D288
-    D289
-    D290
-    D291
-    D292
-    D293
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : Stepper-Driver-v2.0.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D278
-    D279
-    D280
-    D281
-    D282
-    D283
-    D284
-    D285
-    D286
-    D287
-    D288
-    D289
-    D290
-*************************************************************
-
-*************************************************************
-Generating : Layer 2
-      File : Stepper-Driver-v2.0.G2
-
-    Adding Layer      : Layer 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D164
-    D278
-    D279
-    D280
-    D281
-    D282
-    D283
-    D284
-    D285
-    D286
-    D287
-    D288
-    D289
-    D290
-    D291
-    D292
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Stepper-Driver-v2.0.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
 *************************************************************
 
 *************************************************************
@@ -156,17 +47,6 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Stepper-Driver-v2.0.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D157
 *************************************************************
 
 *************************************************************
@@ -231,6 +111,166 @@ Used DCodes :
     D81
     D82
     D83
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Stepper-Driver-v2.0.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+    D149
+    D150
+    D151
+    D152
+    D153
+    D294
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Stepper-Driver-v2.0.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+    D149
+    D150
+    D151
+    D152
+    D153
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Stepper-Driver-v2.0.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D157
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Stepper-Driver-v2.0.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
 *************************************************************
 
 *************************************************************
@@ -310,13 +350,88 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : Stepper-Driver-v2.0.GKO
+Generating : Bottom Pad Master
+      File : Stepper-Driver-v2.0.GPB
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D278
+    D279
+    D280
+    D281
+    D282
+    D283
+    D284
+    D285
+    D286
+    D287
+    D288
+    D289
+    D290
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Stepper-Driver-v2.0.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D157
+    D160
+    D278
+    D279
+    D280
+    D281
+    D282
+    D283
+    D284
+    D285
+    D286
+    D287
+    D288
+    D289
+    D290
+    D291
+    D292
+    D293
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : Stepper-Driver-v2.0.G2
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D164
+    D278
+    D279
+    D280
+    D281
+    D282
+    D283
+    D284
+    D285
+    D286
+    D287
+    D288
+    D289
+    D290
+    D291
+    D292
 *************************************************************
 
 *************************************************************
@@ -549,121 +664,6 @@ Used DCodes :
     D290
     D291
     D292
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Stepper-Driver-v2.0.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D138
-    D139
-    D140
-    D141
-    D142
-    D143
-    D144
-    D145
-    D146
-    D147
-    D148
-    D149
-    D150
-    D151
-    D152
-    D153
-    D294
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Stepper-Driver-v2.0.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
-    D119
-    D120
-    D121
-    D122
-    D123
-    D124
-    D125
-    D126
-    D127
-    D128
-    D129
-    D130
-    D131
-    D132
-    D133
-    D134
-    D135
-    D136
-    D137
-    D138
-    D139
-    D140
-    D141
-    D142
-    D143
-    D144
-    D145
-    D146
-    D147
-    D148
-    D149
-    D150
-    D151
-    D152
-    D153
 *************************************************************
 
 *************************************************************

@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Relay-10A-Switching-Board-v2.0.PcbDoc   3/15/2025  8:08:40 AM
+NCDrill File Report For: Relay-10A-Switching-Board-v2.0.PcbDoc   3/20/2025  12:39:05 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,7 +8,7 @@ ASCII SlotHoles File : Relay-10A-Switching-Board-v2.0-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             104       PTH        749.52mm (29.51inch)
+T1      0.3mm (12mil)                                             Round             105       PTH        746.67mm (29.40inch)
 T2      0.72mm (28mil)                                            Round             4         PTH        3.90mm (0.15inch)
 T3      0.9mm (35mil)                                             Round             31        PTH        258.07mm (10.16inch)
 T4      1mm (39mil)                                               Round             8         PTH        18.08mm (0.71inch)
@@ -24,6 +24,6 @@ T13     2.375mm (94mil)                                           Round         
 T14     2.5mm (98mil)                                             Round             9         NPTH       125.89mm (4.96inch)
 T15     3.2mm (126mil)                                            Round             2         NPTH       11.43mm (0.45inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              215
+Totals                                                                              216
 
 Total Processing Time (hh:mm:ss) : 00:00:00

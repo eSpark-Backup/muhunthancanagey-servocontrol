@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Solenoid-Board-v2.0.PcbDoc   3/15/2025  7:52:51 AM
+NCDrill File Report For: Solenoid-Board-v2.0.PcbDoc   3/20/2025  12:06:23 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : Solenoid-Board-v2.0.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             159       PTH        705.27mm (27.77inch)
+T1      0.3mm (12mil)                                             Round             161       PTH        699.58mm (27.54inch)
 T2      0.72mm (28mil)                                            Round             20        PTH        68.40mm (2.69inch)
 T3      0.9mm (35mil)                                             Round             7         PTH        96.97mm (3.82inch)
 T4      1mm (39mil)                                               Round             8         PTH        18.08mm (0.71inch)
@@ -19,6 +19,6 @@ T9      2.375mm (94mil)                                           Round         
 T10     2.5mm (98mil)                                             Round             1         NPTH       0.00mm (0.00inch)
 T11     3.2mm (126mil)                                            Round             2         NPTH       11.43mm (0.45inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              226
+Totals                                                                              228
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\eSpark Cons Group\Documents\GitHub\Melih-SoundSensor\muhunthancanagey-servocontrol\Design Files\Relay-Switching-Board-v2.0\Project Outputs for Relay-Switching-Board-v2.0\Pick Place for Relay-Switching-Board-v2.0.txt
+E:\aSim Data\GitHub\muhunthancanagey-servocontrol\Design Files\Relay-Switching-Board-v2.0\Project Outputs for Relay-Switching-Board-v2.0\Pick Place for Relay-Switching-Board-v2.0.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       22/01/25
-Time:       20:34
-Revision:   Not in VersionControl
+Date:       20/03/25
+Time:       00:26
+Revision:   18ccee6836c23a87c0115df3af2f02e6545a6fe9
 Variant:    No variations
 Units used: mm
 
@@ -59,7 +59,7 @@ C45        17.8665mm    4.1666mm     TopLayer 270      17.8665mm  4.1666mm   17.
 C46        120.2307mm   29.1171mm    TopLayer 270      120.2307mm 29.1171mm  120.2307mm 29.5870mm  
 C47        121.5135mm   29.1171mm    TopLayer 270      121.5135mm 29.1171mm  121.5135mm 29.5870mm  
 C48        38.0308mm    72.6600mm    TopLayer 0        38.0308mm  72.6600mm  37.5609mm  72.6600mm  
-C49        129.5981mm   19.0842mm    TopLayer 90       129.5981mm 19.0842mm  129.5981mm 18.6143mm  
+C49        124.5109mm   19.0838mm    TopLayer 90       124.5109mm 19.0838mm  124.5109mm 18.6139mm  
 C50        24.1344mm    87.6461mm    TopLayer 0        24.1344mm  87.6461mm  23.6645mm  87.6461mm  
 C51        10.2374mm    72.6601mm    TopLayer 0        10.2374mm  72.6601mm  9.7675mm   72.6601mm  
 C52        24.1342mm    72.6600mm    TopLayer 0        24.1342mm  72.6600mm  23.6643mm  72.6600mm  
@@ -204,6 +204,8 @@ R76        62.3451mm    23.8755mm    TopLayer 90       62.3451mm  23.8755mm  62.
 R77        92.8865mm    23.8973mm    TopLayer 90       92.8865mm  23.8973mm  92.8865mm  23.4274mm  
 R78        92.6337mm    77.9995mm    TopLayer 270      92.6337mm  77.9995mm  92.6337mm  78.4694mm  
 R79        61.3813mm    77.9452mm    TopLayer 270      61.3813mm  77.9452mm  61.3813mm  78.4151mm  
+R80        125.7882mm   19.0842mm    TopLayer 90       125.7882mm 19.0842mm  125.7882mm 18.6143mm  
+R81        129.5981mm   19.0842mm    TopLayer 90       129.5981mm 19.0842mm  129.5981mm 18.6143mm  
 SW1        -0.5124mm    40.0325mm    TopLayer 90       -0.5124mm  40.0325mm  -0.5124mm  38.3325mm  
 SW2        5.9763mm     27.0784mm    TopLayer 270      5.9763mm   27.0784mm  7.2463mm   31.5784mm  
 SW3        -0.5251mm    46.4066mm    TopLayer 270      -0.5251mm  46.4066mm  -0.5251mm  48.1066mm  

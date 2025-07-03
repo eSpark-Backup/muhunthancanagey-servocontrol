@@ -1,0 +1,34 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 24V-7A-Power-Board-v2.0.PcbDoc   7/3/2025  3:53:14 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 24V-7A-Power-Board-v2.0-RoundHoles.TXT
+ASCII SlotHoles File : 24V-7A-Power-Board-v2.0-SlotHoles.TXT
+ASCII RectHoles File : 24V-7A-Power-Board-v2.0-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             81        PTH        27.32inch (693.96mm)
+T2      28mil (0.7mm)                                             Slot              4         PTH        2.18inch (55.30mm)
+T3      32mil (0.8mm)                                             Round             12        PTH        5.89inch (149.67mm)
+T4      32mil (0.82mm)                                            Round             2         PTH        0.35inch (9.00mm)
+T5      33mil (0.85mm)                                            Round             10        PTH        3.29inch (83.58mm)
+T6      36mil (0.914mm)                                           Round             6         PTH        1.80inch (45.83mm)
+T7      36mil (0.92mm)                                            Round             4         PTH        2.95inch (74.96mm)
+T8      39mil (1mm)                                               Round             8         PTH        4.00inch (101.64mm)
+T9      43mil (1.092mm)                                           Round             2         PTH        0.59inch (15.00mm)
+T10     43mil (1.1mm)                                             Round             6         PTH        4.49inch (114.04mm)
+T11     47mil (1.2mm)                                             Round             25        PTH        11.62inch (295.06mm)
+T12     51mil (1.3mm)                                             Round             4         PTH        1.26inch (32.00mm)
+T13     55mil (1.4mm)                                             Round             2         PTH        0.20inch (5.08mm)
+T14     59mil (1.5mm)                                             Rectangle         2         PTH        1.36inch (34.60mm)
+T15     63mil (1.6mm)                                             Round             18        PTH        10.83inch (275.05mm)
+T16     91mil (2.3mm)                                             Round             2         PTH        0.39inch (10.00mm)
+T17     94mil (2.4mm)                                             Round             4         PTH        2.56inch (65.15mm)
+T18     197mil (5mm)                                              Round             4         PTH        14.42inch (366.16mm)
+T19     173mil (4.4mm)                                            Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              197
+
+Total Processing Time (hh:mm:ss) : 00:00:00
